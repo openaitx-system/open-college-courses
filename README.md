@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=sudonam&project=open-college-courses&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 [![](https://socialify.git.ci/seudonam/open-college-courses/image?font=Raleway&forks=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Auto)](https://github.com/seudonam/open-college-courses)
 
 <p align="center">
